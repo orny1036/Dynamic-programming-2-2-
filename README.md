@@ -7,3 +7,6 @@
 ##LeetCode
 - [518. Coin Change II](https://leetcode.com/problems/coin-change-ii)
 
+##  LeetCode
+- [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick)
+
