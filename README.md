@@ -10,3 +10,6 @@
 ## LeetCode
 - [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick)
 
+## CodingNinja
+- [ Rod cutting problem](https://www.naukri.com/code360/problems/rod-cutting-problem_800284)
+
