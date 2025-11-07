@@ -1,12 +1,12 @@
 # Dynamic-programming(2/2)
 |||keeping all the dynamic programming related problems solved under one repository|||
 
-##LeetCode
+## LeetCode
 - [322. Coin Change](https://leetcode.com/problems/coin-change)
 
-##LeetCode
+## LeetCode
 - [518. Coin Change II](https://leetcode.com/problems/coin-change-ii)
 
-##  LeetCode
+## LeetCode
 - [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick)
 
