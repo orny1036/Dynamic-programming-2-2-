@@ -7,9 +7,16 @@
 ## LeetCode
 - [518. Coin Change II](https://leetcode.com/problems/coin-change-ii)
 
+## GeeksForGeeks (Monotonic Binary Search)
+-[Maximum length possible by cutting N given woods into at least K pieces](https://www.geeksforgeeks.org/dsa/maximum-length-possible-by-cutting-n-given-woods-into-at-least-k-pieces/)
+
 ## LeetCode
 - [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick)
 
 ## CodingNinja
 - [ Rod cutting problem](https://www.naukri.com/code360/problems/rod-cutting-problem_800284)
+
+## LeetCode (Monotonic Binary Search)
+- [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
+  
 
