@@ -8,7 +8,7 @@
 - [518. Coin Change II](https://leetcode.com/problems/coin-change-ii)
 
 ## GeeksForGeeks (Monotonic Binary Search)
--[Maximum length possible by cutting N given woods into at least K pieces](https://www.geeksforgeeks.org/dsa/maximum-length-possible-by-cutting-n-given-woods-into-at-least-k-pieces/)
+- [Maximum length possible by cutting N given woods into at least K pieces](https://www.geeksforgeeks.org/dsa/maximum-length-possible-by-cutting-n-given-woods-into-at-least-k-pieces/)
 
 ## LeetCode
 - [1547. Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick)
