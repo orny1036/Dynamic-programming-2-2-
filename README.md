@@ -24,5 +24,8 @@
 
 ## LeetCode
 - [494 Target Sum](https://leetcode.com/problems/target-sum)
+
+## LeetCode
+- [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
   
 
