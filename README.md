@@ -29,6 +29,9 @@
 - [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
 
 ## LeetCode
+- [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
+
+## LeetCode
 - [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
   
 
